@@ -1,0 +1,26 @@
+[
+  {
+    "name": "LinkedIn saved search alerts",
+    "type": "linkedin_alert_export",
+    "access_method": "email_alert_or_manual_export",
+    "automation_allowed": "review_required",
+    "tos_status": "pending_review",
+    "notes": "Prefer user-owned email alerts or exported job links. Do not scrape pages unless ToS/legal review allows it."
+  },
+  {
+    "name": "Company career pages",
+    "type": "company_career_page",
+    "access_method": "official career page, RSS, sitemap or public jobs API if available",
+    "automation_allowed": "review_required",
+    "tos_status": "pending_review",
+    "notes": "Use low-frequency access, robots.txt awareness, and official APIs where available."
+  },
+  {
+    "name": "Job board API",
+    "type": "job_board_api",
+    "access_method": "official API key",
+    "automation_allowed": "allowed_if_api_terms_allow",
+    "tos_status": "pending_review",
+    "notes": "Store API keys in secret manager; respect rate limits."
+  }
+]
