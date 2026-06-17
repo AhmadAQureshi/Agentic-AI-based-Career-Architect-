@@ -1,0 +1,17 @@
+Candidate profile — demo only
+
+Name: Ahmad Qureshi
+Target roles: Business Analyst, Project Manager, Procurement Specialist, Data/AI Intern
+Location preference: Luxembourg, hybrid or onsite
+Languages: English, German B2, French learning
+Education: MSc Communication and Media Engineering; BE Electronics and Communication Engineering
+Certifications: PMP, Scrum Master
+Tools: Python, SQL, Power BI, SAP Ariba, MS Project, Excel, Oracle DB
+Achievements:
+- Reduced manual invoice processing by 26% through automation.
+- Managed IT cybersecurity procurement support across Europe and Middle East spend categories.
+- Built BI dashboards for pricing, inventory and availability monitoring.
+- Supported stakeholder reporting, governance meetings, vendor coordination and process improvement.
+Preferences:
+- Avoid roles requiring senior software engineering ownership.
+- Prioritize roles combining business, data, AI, procurement, finance operations or project coordination.
